@@ -1,9 +1,30 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# MediaTube
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+O MediaTube é um aplicativo web desenvolvido com ReactJS e Material UI 5 que permite aos usuários pesquisar e visualizar vídeos do YouTube através da API do YouTube do Rapid API.
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+Acesse o aplicativo através do link: [https://media-tube-sandy.vercel.app/](https://media-tube-sandy.vercel.app/)
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+## Tecnologias Utilizadas
+- ReactJS
+- Material UI 5
+- API do YouTube do Rapid API
+
+## Funcionalidades
+
+O MediaTube oferece as seguintes funcionalidades:
+
+1. **Pesquisa de Vídeos:** Os usuários podem pesquisar por palavras-chave na barra de pesquisa para encontrar vídeos relevantes no YouTube.
+
+2. **Exibição de Resultados:** Os resultados da pesquisa são exibidos em uma lista de vídeos, mostrando o título, descrição e canal associado a cada vídeo.
+
+3. **Visualização de Vídeos:** Os usuários podem clicar em um vídeo para visualizá-lo diretamente no aplicativo.
+
+## Como Acessar o Aplicativo
+
+Para acessar o aplicativo MediaTube, basta clicar no link abaixo:
+
+[https://media-tube-sandy.vercel.app/](https://media-tube-sandy.vercel.app/)
+
+## Contribuição
+
+Contribuições para a melhoria deste projeto são bem-vindas. Se você tiver sugestões, correções de bugs ou novas ideias, fique à vontade para enviar pull requests ou abrir issues neste repositório.
