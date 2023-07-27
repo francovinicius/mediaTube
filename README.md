@@ -1,4 +1,4 @@
-![MediaTube]()
+![MediaTube](https://github.com/francovinicius/mediaTube/blob/main/public/MediaTube.png)
 
 O MediaTube é um aplicativo web desenvolvido com ReactJS e Material UI 5 que permite aos usuários pesquisar e visualizar vídeos do YouTube através da API do YouTube do Rapid API.
 
